@@ -1,7 +1,3 @@
-Creating a README file for your Tic-Tac-Toe web application is a great idea. It helps others understand what your project is about, how to set it up, and how to use it. Here’s a sample README file that you can customize to fit your project:
-
----
-
 # Tic-Tac-Toe Web Application
 
 ## Description
